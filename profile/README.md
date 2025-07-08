@@ -14,11 +14,11 @@
     <tr><td colspan="3"><div align="center"><h2>Текущие проекты</h2></div></td></tr>
   <tr align="center">
     <td>
-      <a href="https://github.com/GoozyaStudio/Solaris-2.0"><img src="../icon-solaris.ico" width="100" alt="icon-solaris"></a>
+      <img src="../icon-solaris.ico" width="100" alt="icon-solaris">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <a href="https://github.com/GoozyaStudio/Solaris-2.0"><h1 style="margin: 0;">Solaris 2.0</h1>
-      <p style="margin: 0;"><em>Текущая версия: 1.4.0</em></p></a>
+      <h1 style="margin: 0;">Solaris 2.0</h1>
+      <p style="margin: 0;"><em>Текущая версия: 1.4.0</em></p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Программа для инженерных<br>
@@ -30,8 +30,8 @@
       <img src="../icon-specmerger.ico" width="100" alt="icon-specmerger">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <a href="https://github.com/GoozyaStudio/SpecMerger"><h1 style="margin: 0;">SpecMerger</h1>
-      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p></a>
+      <h1 style="margin: 0;">SpecMerger</h1>
+      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Программа для <b>объединения</b><br>
@@ -43,8 +43,8 @@
       <img src="../icon-speccorrector.ico" width="100" alt="icon-speccorrector">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <a href="https://github.com/GoozyaStudio/SpecCorrector"><h1 style="margin: 0;">SpecCorrector</h1>
-      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p></a>
+      <h1 style="margin: 0;">SpecCorrector</h1>
+      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Программа для <b>корректировки</b><br>
@@ -56,8 +56,8 @@
       <img src="../icon-default.ico" width="100" alt="icon-default">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <a href="https://github.com/GoozyaStudio/TAP-converter"><h1 style="margin: 0;">TAP-converter</h1>
-      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p></a>
+      <h1 style="margin: 0;">TAP-converter</h1>
+      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Служебная утилита для доработки<br>
@@ -69,8 +69,8 @@
       <img src="../icon-default.ico" width="100" alt="icon-default">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <a href="https://github.com/GoozyaStudio/WarningMaster"><h1 style="margin: 0;">WarningMaster</h1>
-      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p></a>
+      <h1 style="margin: 0;">WarningMaster</h1>
+      <p style="margin: 0;"><em>Текущая версия: 1.0.0</em></p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Комплекс макросов для контроля<br>
