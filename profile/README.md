@@ -19,7 +19,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">Solaris 2.0</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a href="https://github.com/GoozyaStudio/Solaris-2.0/releases">1.4.0</a></em>
+<em>Текущая версия: <a target="_blank" target="_blank" href="https://github.com/GoozyaStudio/Solaris-2.0/releases">1.4.0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -34,7 +34,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">SpecMerger</h1>
             <p style="margin: 0;">
-<em>Текущая версия: <a href="https://github.com/GoozyaStudio/SpecMerger/releases">1.0.0</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/SpecMerger/releases">1.0.0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -49,7 +49,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">SpecCorrector</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a href="https://github.com/GoozyaStudio/SpecCorrector/releases">1.0.0</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/SpecCorrector/releases">1.0.0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -64,7 +64,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">TAP-converter</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a href="https://github.com/GoozyaStudio/TAP-converter/releases">1.0.0</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/TAP-converter/releases">1.0.0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -79,7 +79,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">WarningMaster</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a href="https://github.com/GoozyaStudio/WarningMaster/releases">1.0.0</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/WarningMaster/releases">1.0.0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
