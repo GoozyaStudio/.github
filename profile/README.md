@@ -14,7 +14,7 @@
     <tr><td colspan="3"><div align="center"><h2>Текущие проекты</h2></div></td></tr>
   <tr align="center">
     <td>
-      <img src="icon-solaris.ico" width="100" alt="icon-solaris">
+      <img src="../icon-solaris.ico" width="100" alt="icon-solaris">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <a href="https://github.com/GoozyaStudio/Solaris-2.0"><h1 style="margin: 0;">Solaris 2.0</h1>
@@ -27,7 +27,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="icon-specmerger.ico" width="100" alt="icon-specmerger">
+      <img src="../icon-specmerger.ico" width="100" alt="icon-specmerger">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <a href="https://github.com/GoozyaStudio/SpecMerger"><h1 style="margin: 0;">SpecMerger</h1>
@@ -40,7 +40,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="icon-speccorrector.ico" width="100" alt="icon-speccorrector">
+      <img src="../icon-speccorrector.ico" width="100" alt="icon-speccorrector">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <a href="https://github.com/GoozyaStudio/SpecCorrector"><h1 style="margin: 0;">SpecCorrector</h1>
@@ -53,7 +53,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="icon-default.ico" width="100" alt="icon-default">
+      <img src="../icon-default.ico" width="100" alt="icon-default">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <a href="https://github.com/GoozyaStudio/TAP-converter"><h1 style="margin: 0;">TAP-converter</h1>
@@ -66,7 +66,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="icon-default.ico" width="100" alt="icon-default">
+      <img src="../icon-default.ico" width="100" alt="icon-default">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <a href="https://github.com/GoozyaStudio/WarningMaster"><h1 style="margin: 0;">WarningMaster</h1>
