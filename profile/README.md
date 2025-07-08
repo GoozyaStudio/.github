@@ -14,7 +14,7 @@
     <tr><td colspan="3"><div align="center"><h2>Текущие проекты</h2></div></td></tr>
   <tr align="center">
     <td>
-      <img src="../icon-solaris.ico" width="100" alt="icon-solaris">
+      <a href="https://github.com/GoozyaStudio/Solaris-2.0"><img src="../icon-solaris.ico" width="100" alt="icon-solaris"></a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <a href="https://github.com/GoozyaStudio/Solaris-2.0"><h1 style="margin: 0;">Solaris 2.0</h1>
