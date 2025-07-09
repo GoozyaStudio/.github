@@ -1,16 +1,23 @@
+name: Update README Versions
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: 3.11
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run update script
