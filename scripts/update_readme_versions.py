@@ -23,7 +23,7 @@ def get_latest_tag(username, repository):
     return "n/a"
 
 
-with open("profile/README.md", "r", encoding="utf-8") as f:
+with open("profile/README_template.md", "r", encoding="utf-8") as f:
     content = f.read()
 
 for tag, (user, repo) in repos.items():
