@@ -1,0 +1,33 @@
+name: Update README Versions
+
+on:
+  workflow_dispatch:  # запуск вручную
+  schedule:
+    - cron: '0 3 * * *'  # каждый день в 3:00 UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install requests
+      run: pip install requests
+
+    - name: Run update script
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python scripts/update_readme_versions.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git commit -am "Update README with latest versions" || echo "No changes to commit"
+        git push
