@@ -2,7 +2,7 @@ import requests
 import os
 
 headers = {
-    "Authorization": f"token {os.environ['GH_TOKEN']}",
+    "Authorization": f"token {os.environ['PAT_TOKEN']}",
     "Accept": "application/vnd.github.v3+json"
 }
 
