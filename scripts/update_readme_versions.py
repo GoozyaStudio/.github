@@ -30,5 +30,5 @@ for tag, (user, repo) in repos.items():
     version = get_latest_tag(user, repo)
     content = content.replace(f"{{{{{tag}}}}}", version)
 
-with open("README.md", "w", encoding="utf-8") as f:
+with open("profile/README.md", "w", encoding="utf-8") as f:
     f.write(content)
