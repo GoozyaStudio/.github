@@ -24,7 +24,7 @@
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Программа для инженерных<br>
-        рассчетов цеховых ведомостей.
+        расчетов цеховых ведомостей.
     </td>
   </tr>
   <tr align="center">
