@@ -19,7 +19,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">Solaris 2.0</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Solaris-2.0/releases">2.2.0</a></em>
+<em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Solaris-2.0/releases">2.2.1</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
