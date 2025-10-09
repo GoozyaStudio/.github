@@ -14,17 +14,17 @@
     <tr><td colspan="3"><div align="center"><h2>Текущие проекты</h2></div></td></tr>
   <tr align="center">
     <td>
-      <img src="../icon-solaris.ico" width="100" alt="icon-solaris">
+      <img src="../icon-neo_lunox.ico" width="100" alt="icon-solaris">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <h1 style="margin: 0;">Solaris 2.0</h1>
+      <h1 style="margin: 0;">Neo Lunox</h1>
       <p style="margin: 0;">
 <em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Solaris-2.0/releases">{{SL_VERSION}}</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-        Программа для инженерных<br>
-        расчетов цеховых ведомостей.
+        Автоматический генератор<br>
+        инженерных расчетов.
     </td>
   </tr>
   <tr align="center">
@@ -39,7 +39,7 @@
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Программа для <b>объединения</b><br>
-        цеховых ведомостей.
+        документов.
     </td>
   </tr>
   <tr align="center">
@@ -54,7 +54,7 @@
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Программа для <b>корректировки</b><br>
-        цеховых ведомостей.
+        документов.
     </td>
   </tr>
   <tr align="center">
