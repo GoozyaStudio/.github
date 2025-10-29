@@ -3,7 +3,7 @@ import os
 
 headers = {
     "Authorization": f"token {os.environ['PAT_TOKEN']}",
-    "Accept": "application/vnd.github.v3+json"
+    "Accept": "application/vnd.github.v3+json",
 }
 
 repos = {
@@ -12,15 +12,14 @@ repos = {
     "SC_VERSION": ("GoozyaStudio", "SpecCorrector"),
     "TC_VERSION": ("GoozyaStudio", "TAP-converter"),
     "WM_VERSION": ("GoozyaStudio", "WarningMaster"),
+    "MC_VERSION": ("GoozyaStudio", "MaterialCalc"),
 }
 
 
 def get_latest_tag(username, repository):
     url = f"https://api.github.com/repos/{username}/{repository}/releases/latest"
     response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        return response.json()['tag_name']
-    return "n/a"
+    return response.json()["tag_name"] if response.status_code == 200 else "n/a"
 
 
 with open("profile/README_template.md", "r", encoding="utf-8") as f:

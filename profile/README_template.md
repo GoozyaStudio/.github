@@ -87,6 +87,20 @@
         ошибок и предупреждений в файлах Excel
     </td>
   </tr>
+    <tr align="center">
+    <td>
+      <img src="../icon-materialcalc.ico" width="100" alt="icon-default">
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1 style="margin: 0;">MaterialCalc</h1>
+      <p style="margin: 0;">
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">{{WM_VERSION}}</a></em>
+      </p>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+        Служебная утилита для анализа<br>входных данных и расчета материалов
+    </td>
+  </tr>
 </table>
 
 
@@ -98,6 +112,7 @@
 Предложения отдельного проекта - в репозитории этого проекта.
 
 ---
+
 ## Участники - авторы
 
 - [_Алексей Зимаков_](https://github.com/GoozyaGod)
