@@ -1,7 +1,7 @@
 <p align="center">
   <strong>GoozyaStudio</strong><br>
   <em>Все, что связано с кодом</em><br><br>
-<img src="https://skillicons.dev/icons?i=python,github,vscode" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=pycharm,python,github,vscode,qt,html,css,js&perline=4" alt="My Skills">
 </p>
 
 ---
