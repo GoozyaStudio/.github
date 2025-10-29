@@ -6,10 +6,6 @@
 
 ---
 
-
-
-
-
 <table align="center">
     <tr><td colspan="3"><div align="center"><h2>Текущие проекты</h2></div></td></tr>
   <tr align="center">
@@ -89,20 +85,34 @@
   </tr>
     <tr align="center">
     <td>
-      <img src="../icon-materialcalc.ico" width="100" alt="icon-default">
+      <img src="../icon-materialcalc.ico" width="100" alt="icon-materialcalc">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">MaterialCalc</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">{{WM_VERSION}}</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">{{MC_VERSION}}</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Служебная утилита для анализа<br>входных данных и расчета материалов
     </td>
   </tr>
+    </tr>
+    <tr align="center">
+    <td>
+      <img src="../icon-default.ico" width="100" alt="icon-default">
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1 style="margin: 0;">GS_WakeBot</h1>
+      <p style="margin: 0;">
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaGod/GS_WakeBot">{{WB_VERSION}}</a></em>
+      </p>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+        Телеграм-бот для пробуждения<br>компьютеров в домашней сети
+    </td>
+  </tr>
 </table>
-
 
 ## FAQ
 
