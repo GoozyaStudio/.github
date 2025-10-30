@@ -90,7 +90,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">MaterialCalc</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">n/a</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">1.0.0_patch0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
