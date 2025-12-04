@@ -13,14 +13,20 @@ repos = {
     "TC_VERSION": ("GoozyaStudio", "TAP-converter"),
     "WM_VERSION": ("GoozyaStudio", "WarningMaster"),
     "MC_VERSION": ("GoozyaStudio", "MaterialCalc"),
+<<<<<<< HEAD
     "PC_VERSION": ("GoozyaStudio", "ProductionCalc"),
+=======
+    "WB_VERSION": ("GoozyaGod", "GS_WakeBot"),
+>>>>>>> 2ca9a036411d3d5f03f844eb5909100fa6d0ba38
 }
 
 
 def get_latest_tag(username, repository):
     url = f"https://api.github.com/repos/{username}/{repository}/releases/latest"
     response = requests.get(url, headers=headers)
-    return response.json()["tag_name"] if response.status_code == 200 else "n/a"
+    return (
+        response.json().get("tag_name", "n/a") if response.status_code == 200 else "n/a"
+    )
 
 
 with open("profile/README_template.md", "r", encoding="utf-8") as f:
