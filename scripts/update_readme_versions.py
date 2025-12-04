@@ -13,6 +13,7 @@ repos = {
     "TC_VERSION": ("GoozyaStudio", "TAP-converter"),
     "WM_VERSION": ("GoozyaStudio", "WarningMaster"),
     "MC_VERSION": ("GoozyaStudio", "MaterialCalc"),
+    "PC_VERSION": ("GoozyaStudio", "ProductionCalc"),
 }
 
 
