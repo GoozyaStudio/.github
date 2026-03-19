@@ -119,7 +119,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">ProductionCalc</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">1.1.0</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">1.2.0</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
