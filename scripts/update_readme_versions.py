@@ -15,6 +15,7 @@ repos = {
     "MC_VERSION": ("GoozyaStudio", "MaterialCalc"),
     "WB_VERSION": ("GoozyaGod", "GS_WakeBot"),
     "PC_VERSION": ("GoozyaStudio", "ProductionCalc"),
+    "SG_VERSION": ("GoozyaStudio", "StickerGen"),
 }
 
 
