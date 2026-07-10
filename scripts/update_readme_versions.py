@@ -16,6 +16,7 @@ repos = {
     "WB_VERSION": ("GoozyaGod", "GS_WakeBot"),
     "PC_VERSION": ("GoozyaStudio", "ProductionCalc"),
     "SG_VERSION": ("GoozyaStudio", "StickerGen"),
+    "PE_VERSION": ("GoozyaStudio", "PDF-Extractor"),
 }
 
 

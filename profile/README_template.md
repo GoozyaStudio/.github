@@ -114,7 +114,7 @@
   </tr>
       <tr align="center">
     <td>
-      <img src="../icon-productioncalc.ico" width="100" alt="icon-default">
+      <img src="../icon-productioncalc.ico" width="100" alt="icon-productioncalc">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">ProductionCalc</h1>
@@ -128,7 +128,7 @@
   </tr>
       <tr align="center">
     <td>
-      <img src="../icon-stickergen.ico" width="100" alt="icon-default">
+      <img src="../icon-stickergen.ico" width="100" alt="icon-stickergen">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">StickerGen</h1>
@@ -138,6 +138,20 @@
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Служебная утилита для<br>генерации маркировочных наклеек
+    </td>
+  </tr>
+      <tr align="center">
+    <td>
+      <img src="../icon-pdfextractor.ico" width="100" alt="icon-pdfextractor">
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1 style="margin: 0;">PDF Extractor</h1>
+      <p style="margin: 0;">
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/PDF-Extractor/releases">{{PE_VERSION}}</a></em>
+      </p>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+        Служебная утилита для<br>экспорта текстовых блоков из PDF файла
     </td>
   </tr>
 </table>
