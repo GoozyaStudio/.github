@@ -15,7 +15,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">Neo Lunox</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Neo-Lunox/releases">2.4.2</a></em>
+<em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Neo-Lunox/releases">2.4.3.1</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -90,7 +90,7 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">MaterialCalc</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">1.1.0</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">1.2.1</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -119,11 +119,25 @@
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">ProductionCalc</h1>
       <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">2.0.1</a></em>
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">2.1.0.1</a></em>
       </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
         Служебная утилита для анализа<br>и сортировки данных по сотрудникам
+    </td>
+  </tr>
+      <tr align="center">
+    <td>
+      <img src="../icon-stickergen.ico" width="100" alt="icon-default">
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1 style="margin: 0;">StickerGen</h1>
+      <p style="margin: 0;">
+<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/StickerGen/releases">1.0.0</a></em>
+      </p>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+        Служебная утилита для<br>генерации маркировочных наклеек
     </td>
   </tr>
 </table>
