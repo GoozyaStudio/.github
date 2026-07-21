@@ -17,6 +17,7 @@ repos = {
     "PC_VERSION": ("GoozyaStudio", "ProductionCalc"),
     "SG_VERSION": ("GoozyaStudio", "StickerGen"),
     "PE_VERSION": ("GoozyaStudio", "PDF-Extractor"),
+    "DA_VERSION": ("GoozyaStudio", "Dir-Analyzer"),
 }
 
 

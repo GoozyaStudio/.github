@@ -7,155 +7,112 @@
 ---
 
 <table align="center">
-    <tr><td colspan="3"><div align="center"><h2>Текущие проекты</h2></div></td></tr>
-  <tr align="center">
-    <td>
-      <img src="../icon-neo_lunox.ico" width="100" alt="icon-neo_lunox">
+  <tr>
+    <td colspan="3">
+      <div align="center">
+        <h2>Текущие проекты</h2></div>
     </td>
+  </tr>
+  <tr align="center">
+    <td> <img src="../icon-neo_lunox.ico" width="100" alt="icon-neo_lunox"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">Neo Lunox</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Neo-Lunox/releases">{{SL_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Neo-Lunox/releases">{{SL_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Автоматический генератор<br>
-        инженерных расчетов.
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Автоматический генератор
+      <br> инженерных расчетов. </td>
   </tr>
   <tr align="center">
-    <td>
-      <img src="../icon-specmerger.ico" width="100" alt="icon-specmerger">
-    </td>
+    <td> <img src="../icon-specmerger.ico" width="100" alt="icon-specmerger"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">SpecMerger</h1>
-            <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/SpecMerger/releases">{{SM_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/SpecMerger/releases">{{SM_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Программа для <b>объединения</b><br>
-        документов.
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Программа для <b>объединения</b>
+      <br> документов. </td>
   </tr>
   <tr align="center">
-    <td>
-      <img src="../icon-speccorrector.ico" width="100" alt="icon-speccorrector">
-    </td>
+    <td> <img src="../icon-speccorrector.ico" width="100" alt="icon-speccorrector"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">SpecCorrector</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/SpecCorrector/releases">{{SC_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/SpecCorrector/releases">{{SC_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Программа для <b>корректировки</b><br>
-        документов.
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Программа для <b>корректировки</b>
+      <br> документов. </td>
   </tr>
   <tr align="center">
-    <td>
-      <img src="../icon-default.ico" width="100" alt="icon-default">
-    </td>
+    <td> <img src="../icon-default.ico" width="100" alt="icon-default"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">TAP-converter</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/TAP-converter/releases">{{TC_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/TAP-converter/releases">{{TC_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Служебная утилита для доработки<br>
-        фрезерных программ от ArtCam
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для доработки
+      <br> фрезерных программ от ArtCam </td>
   </tr>
   <tr align="center">
-    <td>
-      <img src="../icon-default.ico" width="100" alt="icon-default">
-    </td>
+    <td> <img src="../icon-default.ico" width="100" alt="icon-default"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">WarningMaster</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/WarningMaster/releases">{{WM_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/WarningMaster/releases">{{WM_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Комплекс макросов для контроля<br>
-        ошибок и предупреждений в файлах Excel
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Комплекс макросов для контроля
+      <br> ошибок и предупреждений в файлах Excel </td>
   </tr>
-    <tr align="center">
-    <td>
-      <img src="../icon-materialcalc.ico" width="100" alt="icon-materialcalc">
-    </td>
+  <tr align="center">
+    <td> <img src="../icon-materialcalc.ico" width="100" alt="icon-materialcalc"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">MaterialCalc</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">{{MC_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/MaterialCalc/releases">{{MC_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Служебная утилита для анализа<br>входных данных и расчета материалов
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для анализа
+      <br>входных данных и расчета материалов </td>
   </tr>
-    </tr>
-    <tr align="center">
-    <td>
-      <img src="../icon-default.ico" width="100" alt="icon-default">
-    </td>
+  </tr>
+  <tr align="center">
+    <td> <img src="../icon-default.ico" width="100" alt="icon-default"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">GS_WakeBot</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaGod/GS_WakeBot">{{WB_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaGod/GS_WakeBot">{{WB_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Телеграм-бот для пробуждения<br>компьютеров в домашней сети
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Телеграм-бот для пробуждения
+      <br>компьютеров в домашней сети </td>
   </tr>
-      <tr align="center">
-    <td>
-      <img src="../icon-productioncalc.ico" width="100" alt="icon-productioncalc">
-    </td>
+  <tr align="center">
+    <td> <img src="../icon-productioncalc.ico" width="100" alt="icon-productioncalc"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">ProductionCalc</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">{{PC_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">{{PC_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Служебная утилита для анализа<br>и сортировки данных по сотрудникам
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для анализа
+      <br>и сортировки данных по сотрудникам </td>
   </tr>
-      <tr align="center">
-    <td>
-      <img src="../icon-stickergen.ico" width="100" alt="icon-stickergen">
-    </td>
+  <tr align="center">
+    <td> <img src="../icon-stickergen.ico" width="100" alt="icon-stickergen"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">StickerGen</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/StickerGen/releases">{{SG_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/StickerGen/releases">{{SG_VERSION}}</a></em> </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-        Служебная утилита для<br>генерации маркировочных наклеек
-    </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для
+      <br>генерации маркировочных наклеек </td>
   </tr>
-      <tr align="center">
-    <td>
-      <img src="../icon-pdfextractor.ico" width="100" alt="icon-pdfextractor">
-    </td>
+  <tr align="center">
+    <td> <img src="../icon-pdfextractor.ico" width="100" alt="icon-pdfextractor"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">PDF Extractor</h1>
-      <p style="margin: 0;">
-<em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/PDF-Extractor/releases">{{PE_VERSION}}</a></em>
-      </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/PDF-Extractor/releases">{{PE_VERSION}}</a></em> </p>
     </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для
+      <br>экспорта текстовых блоков из PDF файла </td>
+  </tr>
+  <tr align="center">
+    <td> <img src="../icon-default.ico" width="100" alt="icon-default"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-        Служебная утилита для<br>экспорта текстовых блоков из PDF файла
+      <h1 style="margin: 0;">Dir Analyzer</h1>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/Dir-Analyzer/releases">{{DA_VERSION}}</a></em> </p>
     </td>
+    <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для<br>сравнения двух архивов и поиска отличий </td>
   </tr>
 </table>
-
 ## FAQ
 
 - Все необходимые инструкции указаны на репозиториях проекта.
