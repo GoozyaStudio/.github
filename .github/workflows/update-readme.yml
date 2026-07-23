@@ -12,19 +12,20 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: 3.11
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests cryptography
 
       - name: Run update script
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          UPDATE_PRIVATE_KEY: ${{ secrets.UPDATE_PRIVATE_KEY }}
         run: python scripts/update_readme_versions.py
 
       - name: Commit and push changes
@@ -33,7 +34,10 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add profile/README.md
-          git commit -m "Update profile README with latest versions" || echo "No changes to commit"
+          git add \
+            profile/README.md \
+            profile/update_policy.json \
+            profile/update_policy.sig
+          git commit -m "Update projects metadata" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/GoozyaStudio/.github.git
           git push
