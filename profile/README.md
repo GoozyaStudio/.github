@@ -72,7 +72,7 @@
     <td> <img src="../icon-default.ico" width="100" alt="icon-default"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">GS_WakeBot</h1>
-      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaGod/GS_WakeBot">n/a</a></em> </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaGod/GS_WakeBot">—</a></em> </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;"> Телеграм-бот для пробуждения
       <br>компьютеров в домашней сети </td>
@@ -108,7 +108,7 @@
     <td> <img src="../icon-default.ico" width="100" alt="icon-default"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">Dir Analyzer</h1>
-      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/Dir-Analyzer/releases">n/a</a></em> </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/Dir-Analyzer/releases">—</a></em> </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для<br>сравнения двух архивов и поиска отличий </td>
   </tr>
