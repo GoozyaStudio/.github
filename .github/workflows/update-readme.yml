@@ -36,8 +36,7 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add \
             profile/README.md \
-            profile/update_policy.json \
-            profile/update_policy.sig
+            profile/update_policy.json
           git commit -m "Update projects metadata" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/GoozyaStudio/.github.git
           git push
