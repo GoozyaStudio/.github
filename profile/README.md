@@ -81,7 +81,7 @@
     <td> <img src="../icon-productioncalc.ico" width="100" alt="icon-productioncalc"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">ProductionCalc</h1>
-      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">2.1.0.1</a></em> </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a target="_blank" href="https://github.com/GoozyaStudio/ProductionCalc/releases">2.1.0.2</a></em> </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;"> Служебная утилита для анализа
       <br>и сортировки данных по сотрудникам </td>
