@@ -17,7 +17,7 @@
     <td> <img src="../icon-neo_lunox.ico" width="100" alt="icon-neo_lunox"> </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="margin: 0;">Neo Lunox</h1>
-      <p style="margin: 0;"> <em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Neo-Lunox/releases">2.4.3.1</a></em> </p>
+      <p style="margin: 0;"> <em>Текущая версия: <a  target="_blank" href="https://github.com/GoozyaStudio/Neo-Lunox/releases">2.5.0</a></em> </p>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;"> Автоматический генератор
       <br> инженерных расчетов. </td>
